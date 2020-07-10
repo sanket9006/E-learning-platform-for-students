@@ -4,9 +4,7 @@
 
 [[To download app Click Here]](https://drive.google.com/file/d/1M3l5dGAA-wxRcWd4fIKTatV3ddgDRPzh/view?usp=sharing)       
 
-[[To View Demo video 1]](https://youtu.be/5BQcimuhSCw)       
-
-[[To View Demo video 2]](https://youtu.be/gCuvf4y1YFo)       
+[[To View Demo video]](https://youtu.be/TOdUmkT6zGY)            
 
 **Project:-**
 
