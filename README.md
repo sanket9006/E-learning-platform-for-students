@@ -20,7 +20,7 @@
 
 
 
-![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/Tech%20Stack.jpg)
+![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/1.jpg)
 
 
 **Augmented Reality Preview :-**
