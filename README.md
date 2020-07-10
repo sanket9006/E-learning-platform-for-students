@@ -1,7 +1,12 @@
 # E-learning-platform-for-students
 
-[[Website Link dscjscoe.xyz]](https://dscjscoe.xyz)                              
+[[Website Link dscjscoe.xyz]](https://dscjscoe.xyz)       
 
+[[To download app Click Here]](https://dscjscoe.xyz)       
+
+[[To View Demo video 1]](https://youtu.be/5BQcimuhSCw)       
+
+[[To View Demo video 2]](https://youtu.be/gCuvf4y1YFo)       
 
 
 **Project flowchart :-**
