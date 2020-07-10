@@ -8,6 +8,12 @@
 
 [[To View Demo video 2]](https://youtu.be/gCuvf4y1YFo)       
 
+**Project:-**
+
+
+![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/ezgif-6-5b1db0ab3d2a.gif)
+
+
 
 **Project flowchart :-**
 
