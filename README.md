@@ -1,6 +1,6 @@
 # E-learning-platform-for-students
 
-[[Website Link]](https://drive.google.com/open?id=1kXS087QJ8-Ryx4ioNQRMbuL3GqNrXzgH)                              
+[[Website Link dscjscoe.xyz]](https://dscjscoe.xyz)                              
 
 
 
