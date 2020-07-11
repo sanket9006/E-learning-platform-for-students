@@ -8,6 +8,11 @@
 
 **Project:-**
 
+graph TD
+    A[Hard] -->|Text| B(Round)
+    B --> C{Decision}
+    C -->|One| D[Result 1]
+    C -->|Two| E[Result 2]
 
 ![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/ezgif-6-5b1db0ab3d2a.gif)
 
