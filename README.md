@@ -26,7 +26,6 @@
 
 **Augmented Reality Preview :-**
 
-![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/ezgif-6-5b1db0ab3d2a.gif)
 
 
 ![image](https://github.com/sanket9006/E-learning-platform-for-students/blob/master/AR.png)
